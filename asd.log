@@ -1,0 +1,366 @@
+:Monkey: seed=1551191896995 count=1000
+:AllowPackage: com.igancao.user
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%    --pct-touch  触摸
+//   1: 10.0%    motion  移动
+//   2: 2.0%      pinchzoom
+//   3: 15.0%      trackball  滚动
+//   4: -0.0%      --pct-rotation
+//   5: 25.0%      nav  基本导航事件 上下左右
+//   6: 15.0%       majornav   主要导航事件
+//   7: 2.0%     syskeys  系统事件
+//   8: 2.0%      appswitch  启动事件
+//   9: 1.0%   --pct-filp
+//   10: 13.0%    anyevent  其它事件
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.igancao.user/.view.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.igancao.user/.view.activity.SplashActivity } in package com.igancao.user
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(479.0,934.0)
+:Sending Touch (ACTION_UP): 0:(456.02255,905.0733)
+:Sending Touch (ACTION_DOWN): 0:(302.0,642.0)
+:Sending Touch (ACTION_UP): 0:(281.57217,653.21924)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.MainActivity } in package com.igancao.user
+    // activityResuming(com.igancao.user)
+:Sending Touch (ACTION_DOWN): 0:(687.0,678.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(670.71844,656.79816)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(602.0,992.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(602.76385,985.8494)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(394.0,11.0)
+:Sending Touch (ACTION_UP): 0:(377.1235,0.0)
+:Sending Touch (ACTION_DOWN): 0:(488.0,1104.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(483.9114,1084.729)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(201.0,1177.0)
+:Sending Touch (ACTION_UP): 0:(190.60725,1180.1348)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+    //[calendar_time:2019-02-22 10:02:08.864  system_uptime:1588328]
+    // Sending event #100
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+:Sending Touch (ACTION_DOWN): 0:(175.0,355.0)
+:Sending Touch (ACTION_UP): 0:(176.22083,354.1925)
+:Sending Touch (ACTION_DOWN): 0:(494.0,306.0)
+:Sending Touch (ACTION_UP): 0:(400.75397,297.40805)
+:Sending Touch (ACTION_DOWN): 0:(108.0,784.0)
+:Sending Touch (ACTION_UP): 0:(93.88584,750.5521)
+:Sending Touch (ACTION_DOWN): 0:(147.0,547.0)
+:Sending Touch (ACTION_UP): 0:(166.54356,558.41394)
+:Sending Touch (ACTION_DOWN): 0:(211.0,768.0)
+:Sending Touch (ACTION_UP): 0:(202.87738,770.01465)
+:Sending Touch (ACTION_DOWN): 0:(186.0,685.0)
+:Sending Touch (ACTION_UP): 0:(182.36194,675.4424)
+:Sending Touch (ACTION_DOWN): 0:(296.0,216.0)
+:Sending Touch (ACTION_UP): 0:(329.87686,245.92375)
+:Sending Touch (ACTION_DOWN): 0:(363.0,429.0)
+:Sending Touch (ACTION_UP): 0:(369.98834,429.9152)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(643.0,1139.0)
+:Sending Touch (ACTION_UP): 0:(692.86163,1013.74805)
+:Sending Touch (ACTION_DOWN): 0:(574.0,957.0)
+:Sending Touch (ACTION_UP): 0:(572.901,957.6354)
+:Sending Touch (ACTION_DOWN): 0:(119.0,214.0)
+:Sending Touch (ACTION_UP): 0:(130.77646,214.1238)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+    //[calendar_time:2019-02-22 10:02:11.305  system_uptime:1590710]
+    // Sending event #200
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.igancao.user/.view.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.igancao.user/.view.activity.SplashActivity } in package com.igancao.user
+:Sending Touch (ACTION_DOWN): 0:(332.0,363.0)
+:Sending Touch (ACTION_UP): 0:(316.9751,363.09872)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(632.0,918.0)
+:Sending Touch (ACTION_UP): 0:(638.6036,871.55524)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.igancao.user/.view.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.igancao.user/.view.activity.SplashActivity } in package com.igancao.user
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(470.0,427.0)
+:Sending Touch (ACTION_UP): 0:(480.15195,430.21393)
+:Sending Touch (ACTION_DOWN): 0:(66.0,581.0)
+:Sending Touch (ACTION_UP): 0:(68.61489,587.7061)
+:Sending Touch (ACTION_DOWN): 0:(398.0,1192.0)
+:Sending Touch (ACTION_UP): 0:(409.1025,1243.7518)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    //[calendar_time:2019-02-22 10:02:11.969  system_uptime:1591374]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(34.0,106.0)
+:Sending Touch (ACTION_UP): 0:(35.822376,105.62159)
+    // activityResuming(com.igancao.user)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(380.0,1191.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(323.53842,1141.8315)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(151.0,268.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(156.8086,284.9376)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(478.0,1199.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(443.26166,1201.5597)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(85.0,424.0)
+:Sending Touch (ACTION_UP): 0:(84.93146,429.20602)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(438.0,118.0)
+:Sending Touch (ACTION_UP): 0:(442.49188,104.28875)
+:Sending Touch (ACTION_DOWN): 0:(429.0,352.0)
+:Sending Touch (ACTION_UP): 0:(424.68903,350.06992)
+:Sending Touch (ACTION_DOWN): 0:(295.0,305.0)
+:Sending Touch (ACTION_UP): 0:(205.64026,340.29047)
+:Sending Touch (ACTION_DOWN): 0:(535.0,393.0)
+:Sending Touch (ACTION_UP): 0:(537.6157,392.83392)
+:Sending Touch (ACTION_DOWN): 0:(386.0,1099.0)
+:Sending Touch (ACTION_UP): 0:(357.17346,1067.7014)
+:Sending Touch (ACTION_DOWN): 0:(681.0,581.0)
+:Sending Touch (ACTION_UP): 0:(678.2986,612.32446)
+:Sending Touch (ACTION_DOWN): 0:(447.0,925.0)
+    //[calendar_time:2019-02-22 10:02:13.534  system_uptime:1592939]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(418.03265,937.61743)
+:Sending Touch (ACTION_DOWN): 0:(645.0,149.0)
+:Sending Touch (ACTION_UP): 0:(720.0,129.66553)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.vphone.launcher/.Launcher } in package com.vphone.launcher
+:Sending Touch (ACTION_DOWN): 0:(311.0,777.0)
+:Sending Touch (ACTION_UP): 0:(311.4172,781.12036)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.igancao.user/.view.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.igancao.user/.view.activity.SplashActivity } in package com.igancao.user
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(416.0,1138.0)
+:Sending Touch (ACTION_UP): 0:(410.60376,1148.6547)
+    // Injection Failed
+    //[calendar_time:2019-02-22 10:02:14.371  system_uptime:1593776]
+    // Sending event #500
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(324.0,349.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(279.03796,379.87665)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(31.0,807.0)
+:Sending Touch (ACTION_UP): 0:(16.308046,809.994)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(577.0,830.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(507.7472,898.78265)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(342.0,442.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(362.29544,456.202)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(64.0,215.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(76.51959,223.78308)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(22.0,637.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(0.0,618.47)
+    // Injection Failed
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.igancao.user/.view.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.igancao.user/.view.activity.SplashActivity } in package com.igancao.user
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.MainActivity } in package com.igancao.user
+    // activityResuming(com.igancao.user)
+:Sending Touch (ACTION_DOWN): 0:(193.0,822.0)
+    //[calendar_time:2019-02-22 10:02:19.925  system_uptime:1599331]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(185.34933,825.1237)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // activityResuming(com.igancao.user)
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // activityResuming(com.igancao.user)
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // activityResuming(com.igancao.user)
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // activityResuming(com.igancao.user)
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // activityResuming(com.igancao.user)
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // activityResuming(com.igancao.user)
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // activityResuming(com.igancao.user)
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // activityResuming(com.igancao.user)
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // activityResuming(com.igancao.user)
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+    // activityResuming(com.igancao.user)
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.LoginActivity } in package com.igancao.user
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(254.0,294.0)
+:Sending Touch (ACTION_UP): 0:(182.26866,414.3741)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    //[calendar_time:2019-02-22 10:02:22.020  system_uptime:1601425]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(368.0,931.0)
+:Sending Touch (ACTION_UP): 0:(369.59042,923.2857)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.igancao.user/.view.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.igancao.user/.view.activity.SplashActivity } in package com.igancao.user
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+    // Rejecting start of Intent { cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity } in package com.tencent.mm
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(240.0,846.0)
+:Sending Touch (ACTION_UP): 0:(149.31807,810.8276)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(548.0,845.0)
+:Sending Touch (ACTION_UP): 0:(595.63275,843.70215)
+:Sending Touch (ACTION_DOWN): 0:(470.0,718.0)
+:Sending Touch (ACTION_UP): 0:(474.4579,724.27203)
+    // activityResuming(com.igancao.user)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2019-02-22 10:02:22.790  system_uptime:1602195]
+    // Sending event #800
+    //[calendar_time:2019-02-22 10:02:22.790  system_uptime:1602195]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(363.0,615.0)
+:Sending Touch (ACTION_UP): 0:(362.31735,613.6564)
+    // Rejecting start of Intent { act=com.android.systemui.recents.SHOW_RECENTS cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(136.0,244.0)
+:Sending Touch (ACTION_UP): 0:(132.58258,259.40216)
+    // Allowing start of Intent { cmp=com.igancao.user/.view.activity.WebViewShareActivity } in package com.igancao.user
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(186.0,1076.0)
+:Sending Touch (ACTION_UP): 0:(184.98685,1072.659)
+:Sending Touch (ACTION_DOWN): 0:(430.0,640.0)
+:Sending Touch (ACTION_UP): 0:(451.94104,637.7828)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(302.0,1063.0)
+:Sending Touch (ACTION_UP): 0:(324.98523,993.7392)
+    //[calendar_time:2019-02-22 10:02:25.506  system_uptime:1604912]
+    // Sending event #900
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(492.0,168.0)
+:Sending Touch (ACTION_UP): 0:(492.65958,154.51718)
+:Sending Touch (ACTION_DOWN): 0:(193.0,1182.0)
+:Sending Touch (ACTION_UP): 0:(169.52994,1152.6171)
+:Sending Touch (ACTION_DOWN): 0:(287.0,628.0)
+:Sending Touch (ACTION_UP): 0:(260.52368,657.91907)
+:Sending Touch (ACTION_DOWN): 0:(505.0,1095.0)
+:Sending Touch (ACTION_UP): 0:(465.75705,1153.1274)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(315.0,785.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=26 pointers=80 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=21675ms (0ms mobile, 0ms wifi, 21675ms not connected)
+// Monkey finished
